@@ -1,0 +1,60 @@
+body{
+  background-color: #FFB6C1;
+}
+#logotipo{
+  position: absolute;
+width: 400px;
+height: 400px;
+left: -451px;
+top: 172px;
+
+background: rgba(247, 17, 17, 0.19);
+}
+.menu{
+  position: absolute;
+  width: 372px;
+  height: 18px;
+  left: 308px;
+  top: 41px;
+
+  font-family: 'Karma';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 52px;
+
+  color: #000000;
+
+}
+.menu1{
+  position: absolute;
+width: 124px;
+height: 52px;
+left: 791px;
+top: 41px;
+
+font-family: 'Karma';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 52px;
+
+color: #000000;
+
+}
+.menu2{
+  position: absolute;
+width: 115px;
+height: 52px;
+left: 1224px;
+top: 41px;
+
+font-family: 'Karma';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 52px;
+
+color: #000000;
+
+}
