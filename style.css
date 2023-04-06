@@ -1,14 +1,12 @@
 body{
   background-color: #FFB6C1;
 }
-#logotipo{
+.logo{
   position: absolute;
-width: 400px;
-height: 400px;
-left: -451px;
-top: 172px;
-
-background: rgba(247, 17, 17, 0.19);
+width: 328px;
+height: 198px;
+left: 0px;
+top: 0px;
 }
 .menu{
   position: absolute;
@@ -17,7 +15,6 @@ background: rgba(247, 17, 17, 0.19);
   left: 308px;
   top: 41px;
 
-  font-family: 'Karma';
   font-style: normal;
   font-weight: 400;
   font-size: 36px;
@@ -33,7 +30,6 @@ height: 52px;
 left: 791px;
 top: 41px;
 
-font-family: 'Karma';
 font-style: normal;
 font-weight: 400;
 font-size: 36px;
@@ -49,11 +45,39 @@ height: 52px;
 left: 1224px;
 top: 41px;
 
-font-family: 'Karma';
 font-style: normal;
 font-weight: 400;
 font-size: 36px;
 line-height: 52px;
+
+color: #000000;
+
+}
+.Texto{
+  position: absolute;
+width: 1190px;
+height: 111px;
+
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 52px;
+text-align: center;
+
+color: #000000;
+}
+.Titulo{
+  position: absolute;
+width: 403px;
+height: 44px;
+left: 499px;
+top: 254px;
+
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 52px;
+text-align: center;
 
 color: #000000;
 
